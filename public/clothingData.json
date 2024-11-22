@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Winter Clothes Donation Drive",
+    "image": "https://i.ibb.co.com/Th0dS5B/pc6.jpg",
+    "description": "Donate your gently used winter clothes to help those in need during the cold season.",
+    "status": "Open",
+    "contactInfo": "contact@donateclothes.org",
+    "division": "Dhaka"
+  },
+  {
+    "id": 2,
+    "title": "Summer Apparel for Refugees",
+    "image": "https://i.ibb.co.com/WyWvqdz/pc4.jpg",
+    "description": "Help provide summer clothing to refugees in camps.",
+    "status": "Closed",
+    "contactInfo": "refugeehelp@donate.org",
+    "division": "Chittagong"
+  },
+  {
+    "id": 3,
+    "title": "Children's Clothes Collection",
+    "image": "https://i.ibb.co.com/C77Rmg0/pc5.jpg",
+    "description": "Support underprivileged children by donating new or used children’s clothing.",
+    "status": "Ongoing",
+    "contactInfo": "kidsclothes@charity.com",
+    "division": "Chittagong Feni"
+  },
+  {
+    "id": 4,
+    "title": "Formal Wear for Job Seekers",
+    "image": "https://i.ibb.co.com/CQV0H8L/pc3.jpg",
+    "description": "Donate formal clothing to support job seekers in need of proper attire.",
+    "status": "Open",
+    "contactInfo": "support@jobclothes.org",
+    "division": "Rajshahi"
+  },
+  {
+    "id": 5,
+    "title": "Clothing Drive for Flood Victims",
+    "image": "https://i.ibb.co.com/CwsdX6G/pc7.jpg",
+    "description": "Provide essential clothing for those affected by recent floods.",
+    "status": "Completed",
+    "contactInfo": "floodrelief@donate.org",
+    "division": "Barisal"
+  },
+  {
+    "id": 6,
+    "title": "Old Clothes for Homeless",
+    "image": "https://i.ibb.co.com/qgsThBz/pc1.jpg",
+    "description": "Donate old but wearable clothes to support the homeless.",
+    "status": "Open",
+    "contactInfo": "help@homelessclothes.org",
+    "division": "Khulna"
+  },
+  {
+    "id": 7,
+    "title": "Blanket and Warm Clothes Campaign",
+    "image": "https://i.ibb.co.com/Hh3WVmK/pc2.jpg",
+    "description": "Collecting blankets and warm clothes for families in rural areas.",
+    "status": "Ongoing",
+    "contactInfo": "blankets@charitygroup.com",
+    "division": "Rangpur"
+  },
+  {
+    "id": 8,
+    "title": "Ethnic Wear for Celebrations",
+    "image": "https://i.ibb.co.com/CQV0H8L/pc3.jpg",
+    "description": "Contribute ethnic clothing to make festive celebrations more inclusive.",
+    "status": "Open",
+    "contactInfo": "festival@ethnicdonations.org",
+    "division": "Mymensingh"
+  },
+  {
+    "id": 9,
+    "title": "Sportswear Collection Drive",
+    "image": "https://i.ibb.co.com/WyWvqdz/pc4.jpg",
+    "description": "Donate sportswear to encourage fitness among youth.",
+    "status": "Closed",
+    "contactInfo": "sportswear@fitnessdrive.org",
+    "division": "Dhaka Keraniganj"
+  },
+  {
+    "id": 10,
+    "title": "School Uniforms for Kids",
+    "image": "https://i.ibb.co.com/C77Rmg0/pc5.jpg",
+    "description": "Help children from low-income families get proper school uniforms.",
+    "status": "Open",
+    "contactInfo": "schoolsupport@education.org",
+    "division": "Sylhet Mowlovi Bazar"
+  },
+  {
+    "id": 11,
+    "title": "Clothes for Elderly Homes",
+    "image": "https://i.ibb.co.com/Th0dS5B/pc6.jpg",
+    "description": "Provide comfortable clothing for elderly people in care homes.",
+    "status": "Completed",
+    "contactInfo": "elderlycare@donate.org",
+    "division": "Chittagong Noyakhali"
+  },
+  {
+    "id": 12,
+    "title": "Disaster Relief Clothing Drive",
+    "image": "https://i.ibb.co.com/qgsThBz/pc1.jpg",
+    "description": "Support disaster-hit regions with clothing donations.",
+    "status": "Ongoing",
+    "contactInfo": "disasterhelp@aidclothes.com",
+    "division": "Rajshahi Nowga"
+  },
+  {
+    "id": 13,
+    "title": "Women’s Clothes Collection",
+    "image": "https://i.ibb.co.com/Hh3WVmK/pc2.jpg",
+    "description": "Donate clothing to support women's shelters.",
+    "status": "Open",
+    "contactInfo": "womenhelp@charity.org",
+    "division": "Barisal Hizla"
+  },
+  {
+    "id": 14,
+    "title": "Festival Clothes for Orphans",
+    "image": "https://i.ibb.co.com/CQV0H8L/pc3.jpg",
+    "description": "Bring joy to orphans by donating festive clothes.",
+    "status": "Closed",
+    "contactInfo": "festivalcare@orphans.org",
+    "division": "Mymensingh Muktagacha"
+  },
+  {
+    "id": 15,
+    "title": "Newborn Baby Clothes Collection",
+    "image": "https://i.ibb.co.com/qgsThBz/pc1.jpg",
+    "description": "Donate clothing for newborns and their families.",
+    "status": "Open",
+    "contactInfo": "babies@donationdrive.com",
+    "division": "Rangpur Poncchoghar"
+  },
+  {
+    "id": 16,
+    "title": "Casual Wear for Daily Workers",
+    "image": "https://i.ibb.co.com/X73v03w/download-1.jpg",
+    "description": "Help daily wage workers with durable casual wear.",
+    "status": "Ongoing",
+    "contactInfo": "workers@helpdrive.com",
+    "division": "Khulna Potuakhali"
+  },
+  {
+    "id": 17,
+    "title": "Hijabs and Islamic Wear Drive",
+    "image": "https://i.ibb.co.com/WyWvqdz/pc4.jpg",
+    "description": "Provide hijabs and modest wear to women in need.",
+    "status": "Open",
+    "contactInfo": "hijabs@faithdrive.org",
+    "division": "Dhaka Narayanganj"
+  },
+  {
+    "id": 18,
+    "title": "Workout Gear for Youth",
+    "image": "https://i.ibb.co.com/Th0dS5B/pc6.jpg",
+    "description": "Encourage fitness by donating workout clothing to youth centers.",
+    "status": "Open",
+    "contactInfo": "fitnessyouth@donation.org",
+    "division": "Sylhet Srimangle"
+  },
+  {
+    "id": 19,
+    "title": "Maternity Wear for Mothers",
+    "image": "https://i.ibb.co.com/CQV0H8L/pc3.jpg",
+    "description": "Support expecting mothers with maternity clothes.",
+    "status": "Completed",
+    "contactInfo": "maternityhelp@support.org",
+    "division": "Chittagong Cox's Bazar"
+  },
+  {
+    "id": 20,
+    "title": "Denim Collection for Teens",
+    "image": "https://i.ibb.co.com/Hh3WVmK/pc2.jpg",
+    "description": "Help teenagers in need by donating denim clothing.",
+    "status": "Open",
+    "contactInfo": "denimteens@helpdrive.com",
+    "division": "Rajshahi Bogra"
+  }
+]
